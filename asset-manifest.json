@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mmart/static/css/main.ed0cef45.css",
+    "main.js": "/mmart/static/js/main.5593ebb0.js",
+    "static/js/453.16d90a7c.chunk.js": "/mmart/static/js/453.16d90a7c.chunk.js",
+    "index.html": "/mmart/index.html",
+    "main.ed0cef45.css.map": "/mmart/static/css/main.ed0cef45.css.map",
+    "main.5593ebb0.js.map": "/mmart/static/js/main.5593ebb0.js.map",
+    "453.16d90a7c.chunk.js.map": "/mmart/static/js/453.16d90a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0cef45.css",
+    "static/js/main.5593ebb0.js"
+  ]
+}
